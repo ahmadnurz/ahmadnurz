@@ -1,87 +1,77 @@
-# Hi there 👋, I'm Ahmad Nur
+# Hi there, I'm Ahmad Nur Yulhaidir 👋
+### Computer Engineering Student | Backend Developer & Embedded Systems Enthusiast
 
-### 💻 IT Student | Frontend Developer Newbie
-
-I'm an Information Technology student passionate about technology and continuous learning. Currently, I'm exploring Frontend Development while also learning Cyber Security, Internet of Things (IoT), and Artificial Intelligence.
+<p align="left">
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained" />
+  <img src="https://img.shields.io/github/followers/ahmadnurz?style=flat&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Location-Makassar,%20Indonesia-red" alt="Location" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Information Technology Student
-* 🌱 Currently learning React, Next.js, and modern web development
-* 🔐 Interested in Cyber Security
-* 🌐 Exploring Internet of Things (IoT)
-* 🤖 Learning Artificial Intelligence
-* 📚 Always eager to learn new technologies and build projects
+Saya adalah mahasiswa **Teknik Komputer** yang berfokus pada pengembangan *Backend Architecture*, manajemen *Database*, serta integrasi *Hardware-Software* melalui *Embedded Systems*. Saya senang memecahkan masalah kompleks, mengoptimalkan kueri database, dan membangun aplikasi yang responsif serta efisien.
 
----
-
-## 🔭 Currently Working On
-
-* Personal Portfolio Website
-* Web-based Academic Projects
-* Frontend Development Projects
-* Learning Cyber Security Fundamentals
-* Exploring AI and IoT Technologies
+- 🛠️ **Fokus Saat Ini:** Mengembangkan arsitektur database yang scalable dan mengeksplorasi implementasi AI/LLM untuk solusi digital.
+- ⚡ **Fun Fact:** Selain coding di depan layar hitam, saya juga menikmati perancangan peta taktis skala besar di Minecraft untuk analisis strategi makro.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-### Languages
+### 🌐 Backend & Web Development
+<p align="left">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+### 🗄️ Database Management
+<p align="left">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+</p>
 
-### Frontend
+### 🤖 Embedded Systems & IoT
+<p align="left">
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+---
 
-### Tools
+## 📁 Featured Projects
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+### 🧺 [Sistem Informasi & Dashboard Laundry](https://github.com/ahmadnurz)
+* **Deskripsi:** Sistem manajemen laundry terintegrasi yang dilengkapi dengan dashboard interaktif untuk memantau total order, status cucian, dan laporan keuangan.
+* **Tech Stack:** Tailwind CSS, JavaScript, MySQL (Optimasi Stored Procedures & Views).
+
+### 🧠 [CO-MIND (Mental Health App Proposal)](https://github.com/ahmadnurz)
+* **Deskripsi:** Proposal sistem aplikasi konsultasi kesehatan mental adaptif untuk remaja yang mengintegrasikan teknologi *Large Language Model* (LLM) sebagai asisten responsif.
+* **Fokus:** System Architecture, AI Integration Concept.
+
+### 🔒 [OLED SSD1306 Password Lock](https://github.com/ahmadnurz)
+* **Deskripsi:** Proyek *embedded system* berbasis Arduino menggunakan display OLED SSD1306 sebagai sistem keamanan pengunci pintu berbasis password digital.
+* **Tech Stack:** C++, Arduino Hardware.
+
+### 🏪 [KANTIN_DIGITAL](https://github.com/ahmadnurz/KANTIN_DIGITAL)
+* **Deskripsi:** Repositori pengembangan sistem digitalisasi kantin untuk efisiensi transaksi dan manajemen inventaris.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadnurz\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadnurz\&layout=compact)
-
----
-
-## 📂 Featured Projects
-
-### 🍽️ KANTIN DIGITAL
-
-A web-based digital canteen management system that simplifies food ordering and transaction processes.
-
-### 🎉 KADO SELAMAT ULANG TAHUN
-
-An interactive digital birthday greeting website with animations and creative design.
-
-### 🌐 Personal Portfolio
-
-A modern portfolio website showcasing projects, skills, and learning journey.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadnurz&show_icons=true&theme=tokyonight&count_private=true" alt="Ahmad's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadnurz&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Connect with Me
 
-* GitHub: https://github.com/ahmadnurz
-* Instagram: @ahmdnrz
-* Email: [ahmadnurr324@gmail.com](mailto:ahmadnurr324@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username) *(Sesuaikan link ini)*
+- 📧 **Email:** [ahmad.yulhaidir@example.com](mailto:ahmad.yulhaidir@example.com) *(Sesuaikan email ini)*
 
----
-
-### ⚡ Fun Fact
-
-> "Technology is not just about building software, it's about solving real-world problems."
-
-⭐ Feel free to explore my repositories and connect with me!
+<p align="center">⭐️ <i>"Strive for clean code and optimized queries."</i></p>
