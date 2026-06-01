@@ -1,5 +1,4 @@
 # Hi there, I'm Ahmad Nur Yulhaidir 👋
-
 ### Computer Engineering Student | Backend Developer & Embedded Systems Enthusiast
 
 <p align="left">
@@ -10,65 +9,69 @@
 
 ---
 
-<p>
-🚀 <b>About Me</b>
-</p>
+## 🚀 About Me
 
-Saya adalah mahasiswa <b>Teknik Komputer</b> yang berfokus pada pengembangan <i>Backend Architecture</i>, manajemen <i>Database</i>, serta integrasi <i>Hardware-Software</i> melalui <i>Embedded Systems</i>.
+Saya adalah mahasiswa **Teknik Komputer** yang berfokus pada pengembangan *Backend Architecture*, manajemen *Database*, serta integrasi *Hardware-Software* melalui *Embedded Systems*. Saya senang memecahkan masalah kompleks, mengoptimalkan kueri database, dan membangun aplikasi yang responsif serta efisien.
 
-* 🛠️ Fokus Saat Ini: Mengembangkan arsitektur database yang scalable dan mengeksplorasi implementasi AI/LLM untuk solusi digital.
-* ⚡ Fun Fact: Selain coding di depan layar hitam, saya juga menikmati perancangan peta taktis skala besar di Minecraft untuk analisis strategi makro.
+- 🛠️ **Fokus Saat Ini:** Mengembangkan arsitektur database yang scalable dan mengeksplorasi implementasi AI/LLM untuk solusi digital.
+- ⚡ **Fun Fact:** Selain coding di depan layar hitam, saya juga menikmati perancangan peta taktis skala besar di Minecraft untuk analisis strategi makro.
 
 ---
 
-<p>
-🛠️ <b>Tech Stack & Tools</b>
-</p>
+## 🛠️ Tech Stack & Tools
 
 ### 🌐 Backend & Web Development
-
 <p align="left">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</p>
+
+### 🗄️ Database Management
+<p align="left">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+</p>
+
+### 🤖 Embedded Systems & IoT
+<p align="left">
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
 
 ---
 
-<p>
-📁 <b>Featured Projects</b>
-</p>
+## 📁 Featured Projects
 
-🔹 <b>Sistem Informasi & Dashboard Laundry</b>
+### 🧺 [Sistem Informasi & Dashboard Laundry](https://github.com/ahmadnurz)
+* **Deskripsi:** Sistem manajemen laundry terintegrasi yang dilengkapi dengan dashboard interaktif untuk memantau total order, status cucian, dan laporan keuangan.
+* **Tech Stack:** Tailwind CSS, JavaScript, MySQL (Optimasi Stored Procedures & Views).
 
-🔹 <b>CO-MIND (Mental Health App Proposal)</b>
+### 🧠 [CO-MIND (Mental Health App Proposal)](https://github.com/ahmadnurz)
+* **Deskripsi:** Proposal sistem aplikasi konsultasi kesehatan mental adaptif untuk remaja yang mengintegrasikan teknologi *Large Language Model* (LLM) sebagai asisten responsif.
+* **Fokus:** System Architecture, AI Integration Concept.
 
-🔹 <b>OLED SSD1306 Password Lock</b>
+### 🔒 [OLED SSD1306 Password Lock](https://github.com/ahmadnurz)
+* **Deskripsi:** Proyek *embedded system* berbasis Arduino menggunakan display OLED SSD1306 sebagai sistem keamanan pengunci pintu berbasis password digital.
+* **Tech Stack:** C++, Arduino Hardware.
 
-🔹 <b>KANTIN_DIGITAL</b>
+### 🏪 [KANTIN_DIGITAL](https://github.com/ahmadnurz/KANTIN_DIGITAL)
+* **Deskripsi:** Repositori pengembangan sistem digitalisasi kantin untuk efisiensi transaksi dan manajemen inventaris.
 
 ---
 
-<p>
-📊 <b>GitHub Stats</b>
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadnurz&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadnurz&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadnurz&show_icons=true&theme=tokyonight&count_private=true" alt="Ahmad's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadnurz&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
-<p>
-🤝 <b>Connect with Me</b>
-</p>
+## 🤝 Connect with Me
 
-* 📧 Email: [ahmadnurr324@gmail.com](mailto:ahmadnurr324@gmail.com)
-* 📸 Instagram: @ahmdnrz
-* 💻 GitHub: github.com/ahmadnurz
+- 💼 **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username) *(Sesuaikan link ini)*
+- 📧 **Email:** [ahmad.yulhaidir@example.com](mailto:ahmad.yulhaidir@example.com) *(Sesuaikan email ini)*
 
-<p align="center">
-⭐️ <i>Strive for clean code and optimized queries.</i>
-</p>
+<p align="center">⭐️ <i>"Strive for clean code and optimized queries."</i></p>
