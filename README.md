@@ -61,8 +61,12 @@ Saya adalah mahasiswa **Teknik Komputer** yang berfokus pada pengembangan *Backe
 ---
 
 ## 🤝 Connect with Me
+</p>
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username) *(Sesuaikan link ini)*
-- 📧 **Email:** [ahmad.yulhaidir@example.com](mailto:ahmad.yulhaidir@example.com) *(Sesuaikan email ini)*
+* 📧 Email: [ahmadnurr324@gmail.com](mailto:ahmadnurr324@gmail.com)
+* 📸 Instagram: @ahmdnrz
+* 💻 GitHub: github.com/ahmadnurz
+
+<p align="center">
 
 <p align="center">⭐️ <i>"Strive for clean code and optimized queries."</i></p>
