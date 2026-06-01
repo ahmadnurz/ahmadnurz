@@ -60,18 +60,24 @@ Saya adalah mahasiswa **Teknik Komputer** yang berfokus pada pengembangan *Backe
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadnurz&show_icons=true&theme=tokyonight&count_private=true" alt="Ahmad's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadnurz&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <!-- Menggunakan Vercel mirror instance yang jauh lebih stabil -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadnurz&show_icons=true&theme=tokyonight&count_private=true" alt="Ahmad's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadnurz&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <!-- Menambahkan Trophies sebagai fallback visual jika server stats utama sedang down -->
+  <img src="https://github-profile-trophy.vercel.it/?username=ahmadnurz&theme=tokyonight&column=7&margin-w=15" alt="Ahmad's Trophies" width="100%" />
 </p>
 
 ---
 
 ## 🤝 Connect with Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username) *(Sesuaikan link ini)*
-- 📧 **Email:** [ahmad.yulhaidir@example.com](mailto:ahmad.yulhaidir@example.com) *(Sesuaikan email ini)*
+- 💼 **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username) *(Silakan sesuaikan tautan ini)*
+- 📧 **Email:** [ahmad.yulhaidir@example.com](mailto:ahmad.yulhaidir@example.com) *(Silakan sesuaikan email ini)*
 
 <p align="center">⭐️ <i>"Strive for clean code and optimized queries."</i></p>
