@@ -2,9 +2,9 @@
 ### Computer Engineering Student | Backend Developer & Embedded Systems Enthusiast
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained" />
-  <img src="https://img.shields.io/github/followers/ahmadnurz?style=flat&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Location-Makassar,%20Indonesia-red" alt="Location" />
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained" />
+  <img src="https://img.shields.io/github/followers/ahmadnurz?style=flat&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Location-Makassar,%20Indonesia-red" alt="Location" />
 </p>
 
 ---
@@ -22,21 +22,21 @@ Saya adalah mahasiswa **Teknik Komputer** yang berfokus pada pengembangan *Backe
 
 ### 🌐 Backend & Web Development
 <p align="left">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 </p>
 
 ### 🗄️ Database Management
 <p align="left">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
 </p>
 
 ### 🤖 Embedded Systems & IoT
 <p align="left">
-  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
 
 ---
@@ -63,8 +63,8 @@ Saya adalah mahasiswa **Teknik Komputer** yang berfokus pada pengembangan *Backe
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadnurz&show_icons=true&theme=tokyonight&count_private=true" alt="Ahmad's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadnurz&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadnurz&show_icons=true&theme=tokyonight&count_private=true" alt="Ahmad's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadnurz&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
