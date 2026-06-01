@@ -60,15 +60,6 @@ Saya adalah mahasiswa **Teknik Komputer** yang berfokus pada pengembangan *Backe
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadnurz&show_icons=true&theme=tokyonight&count_private=true" alt="Ahmad's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadnurz&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ## 🤝 Connect with Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username) *(Sesuaikan link ini)*
