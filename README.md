@@ -1,4 +1,4 @@
-# Hi there, I'm Ahmad Nur Yulhaidir 👋
+# Hi there, I'm Ahmad Nur 👋
 ### Computer Engineering Student | Backend Developer & Embedded Systems Enthusiast
 
 <p align="left">
