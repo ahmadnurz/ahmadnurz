@@ -14,7 +14,7 @@
 Saya adalah mahasiswa **Teknik Komputer** yang berfokus pada pengembangan *Backend Architecture*, manajemen *Database*, serta integrasi *Hardware-Software* melalui *Embedded Systems*. Saya senang memecahkan masalah kompleks, mengoptimalkan kueri database, dan membangun aplikasi yang responsif serta efisien.
 
 - 🛠️ **Fokus Saat Ini:** Mengembangkan arsitektur database yang scalable dan mengeksplorasi implementasi AI/LLM untuk solusi digital.
-- ⚡ **Fun Fact:** Selain coding di depan layar hitam, saya juga menikmati perancangan peta taktis skala besar di Minecraft untuk analisis strategi makro.
+- ⚡ **Fun Fact:** Selain coding di depan layar hitam, saya juga menikmati perancangan minecraft server dengan mod yang sangat seru
 
 ---
 
