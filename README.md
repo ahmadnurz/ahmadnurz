@@ -1,4 +1,4 @@
-# Hi there, I'm Ahmad Nur 👋
+# Hi there, I'm Ahmad Nur 
 ### Computer Engineering Student | Backend Developer & Embedded Systems Enthusiast
 
 <p align="left">
@@ -9,18 +9,18 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Saya adalah mahasiswa **Teknik Komputer** yang berfokus pada pengembangan *Backend Architecture*, manajemen *Database*, serta integrasi *Hardware-Software* melalui *Embedded Systems*. Saya senang memecahkan masalah kompleks, mengoptimalkan kueri database, dan membangun aplikasi yang responsif serta efisien.
 
-- 🛠️ **Fokus Saat Ini:** Mengembangkan arsitektur database yang scalable dan mengeksplorasi implementasi AI/LLM untuk solusi digital.
-- ⚡ **Fun Fact:** Selain coding di depan layar hitam, saya juga menikmati perancangan minecraft server dengan mod yang sangat seru
+-  **Fokus Saat Ini:** Mengembangkan arsitektur database yang scalable dan mengeksplorasi implementasi AI/LLM untuk solusi digital.
+-  **Fun Fact:** Selain coding di depan layar hitam, saya juga menikmati perancangan minecraft server dengan mod yang sangat seru
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
-### 🌐 Backend & Web Development
+###  Backend & Web Development
 <p align="left">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -28,39 +28,20 @@ Saya adalah mahasiswa **Teknik Komputer** yang berfokus pada pengembangan *Backe
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 </p>
 
-### 🗄️ Database Management
+###  Database Management
 <p align="left">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
 </p>
 
-### 🤖 Embedded Systems & IoT
+###  Embedded Systems & IoT
 <p align="left">
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
 
 ---
 
-## 📁 Featured Projects
-
-### 🧺 [Sistem Informasi & Dashboard Laundry](https://github.com/ahmadnurz)
-* **Deskripsi:** Sistem manajemen laundry terintegrasi yang dilengkapi dengan dashboard interaktif untuk memantau total order, status cucian, dan laporan keuangan.
-* **Tech Stack:** Tailwind CSS, JavaScript, MySQL (Optimasi Stored Procedures & Views).
-
-### 🧠 [CO-MIND (Mental Health App Proposal)](https://github.com/ahmadnurz)
-* **Deskripsi:** Proposal sistem aplikasi konsultasi kesehatan mental adaptif untuk remaja yang mengintegrasikan teknologi *Large Language Model* (LLM) sebagai asisten responsif.
-* **Fokus:** System Architecture, AI Integration Concept.
-
-### 🔒 [OLED SSD1306 Password Lock](https://github.com/ahmadnurz)
-* **Deskripsi:** Proyek *embedded system* berbasis Arduino menggunakan display OLED SSD1306 sebagai sistem keamanan pengunci pintu berbasis password digital.
-* **Tech Stack:** C++, Arduino Hardware.
-
-### 🏪 [KANTIN_DIGITAL](https://github.com/ahmadnurz/KANTIN_DIGITAL)
-* **Deskripsi:** Repositori pengembangan sistem digitalisasi kantin untuk efisiensi transaksi dan manajemen inventaris.
-
----
-
-## 🤝 Connect with Me
+##  Connect with Me
 </p>
 
 * 📧 Email: [ahmadnurr324@gmail.com](mailto:ahmadnurr324@gmail.com)
@@ -69,4 +50,4 @@ Saya adalah mahasiswa **Teknik Komputer** yang berfokus pada pengembangan *Backe
 
 <p align="center">
 
-<p align="center">⭐️ <i>"Strive for clean code and optimized queries."</i></p>
+<p align="center"> <i>"Strive for clean code and optimized queries."</i></p>
