@@ -1,6 +1,10 @@
 # Hi there, I'm Ahmad Nur 
 ### Computer Engineering Student | Backend Developer & Embedded Systems Enthusiast
 
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=AHMAD%20NUR%20&fontAlignY=40&animation=twinkling&desc=Mahasiswa%20Teknik%20Informatika&descSize=-1&descAlignY=53&textBg=false&reversal=false" alt="Banner Ahmad Nur" />
+</div>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained" />
   <img src="https://img.shields.io/github/followers/ahmadnurz?style=flat&color=blue" alt="GitHub Followers" />
