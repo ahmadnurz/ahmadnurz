@@ -7,6 +7,13 @@ Saya adalah mahasiswa **Teknik Komputer** yang berfokus pada pengembangan *Backe
 Fokus saat ini Mengembangkan arsitektur database yang scalable dan mengeksplorasi implementasi AI/LLM untuk solusi digital.
 Selain coding di depan layar hitam, saya juga menikmati perancangan minecraft server dengan mod yang sangat seru
 
+<p align="left">
+  <a href="https://komarev.com/ghpvc/?username=ahmadnurz">
+    <img src="https://komarev.com/ghpvc/?username=ahmadnurz&label=Profile%20views&color=00FFFF&style=flat-square" alt="ahmadnurz's profile views" />
+  </a>
+</p>
+
+
 
 ##  Tech Stack & Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java,nextjs,php,py,react,mysql,figma,vscode)](https://skillicons.dev)
