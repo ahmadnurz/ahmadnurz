@@ -2,7 +2,7 @@
 ### Computer Engineering Student | Backend Developer & Embedded Systems Enthusiast
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=AHMAD%20NUR%20&fontAlignY=40&animation=twinkling&desc=Mahasiswa%20Teknik%20Informatika&descSize=-1&descAlignY=53&textBg=false&reversal=false" alt="Banner Ahmad Nur" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=AHMAD%20NUR%20&fontAlignY=40&animation=twinkling&desc=Computer%20Engineering%20Student%20|%20Backend%20Developer%20&%20Embedded%20Systems%20Enthusiast&descSize=-1&descAlignY=55&textBg=false&reversal=false&section=header" />
 </div>
 
 <p align="left">
