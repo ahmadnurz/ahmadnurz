@@ -15,8 +15,11 @@ Selain coding di depan layar hitam, saya juga menikmati perancangan minecraft se
 
 
 
-##  Tech Stack & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java,nextjs,php,py,react,mysql,figma,vscode)](https://skillicons.dev)
+##  Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java,nextjs,php,py,react,mysql)](https://skillicons.dev)
+
+##  Tools
+[![My Skills](https://skillicons.dev/icons?i=figma,vscode)](https://skillicons.dev)
 
 ##  Connect with Me
 </p>
